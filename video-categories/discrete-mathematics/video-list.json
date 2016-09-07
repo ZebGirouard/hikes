@@ -69,13 +69,13 @@
     },
     {
       "title": "Conditional & Biconditional Statements",
-      "complete": "false",
+      "complete": false,
       "script_author": "Shawn Grooms",
       "video_author": "Shawn Grooms"
     },
     {
       "title": "Conditional & Biconditional Examples",
-      "complete": "false",
+      "complete": false,
       "script_author": "Shawn Grooms",
       "video_author": "Shawn Grooms"
     },
@@ -93,31 +93,31 @@
     },
     {
       "title": "Knights & Knaves 1",
-      "complete": "false",
+      "complete": false,
       "script_author": "Shawn Grooms",
       "video_author": "Shawn Grooms"
     },
         {
       "title": "Knights & Knaves 2",
-      "complete": "false",
+      "complete": false,
       "script_author": "Shawn Grooms",
       "video_author": "Shawn Grooms"
     },
         {
       "title": "Knights & Knaves 3",
-      "complete": "false",
+      "complete": false,
       "script_author": "Shawn Grooms",
       "video_author": "Shawn Grooms"
     },
     {
       "title": "The Monty Hall Problem",
-      "complete": "false",
+      "complete": false,
       "script_author": "Shawn Grooms",
       "video_author": "Shawn Grooms"
     },
     {
-      "title": "3 Prisoners, 2 Colors, 1 Guard",
-      "complete": "false",
+      "title": "3 Mobsters Riddle",
+      "complete": false,
       "script_author": "Shawn Grooms",
       "video_author": "Shawn Grooms"
     }
