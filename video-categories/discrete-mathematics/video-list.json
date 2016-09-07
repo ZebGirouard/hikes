@@ -51,19 +51,73 @@
     },
     {
       "title": "Logic: What is Logic?",
-      "complete": false,
+      "complete": true,
       "script_author": "Shawn Grooms",
       "video_author": "Shawn Grooms"
     },
     {
-      "title": "Logic: Logical Operators",
-      "complete": false,
+      "title": "Logic: Logical Operators & Truth Tables",
+      "complete": true,
       "script_author": "Shawn Grooms",
       "video_author": "Shawn Grooms"
     },
     {
       "title": "Logic: Algebra of Logic",
-      "complete": false,
+      "complete": true,
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+    {
+      "title": "Conditional & Biconditional Statements",
+      "complete": "false",
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+    {
+      "title": "Conditional & Biconditional Examples",
+      "complete": "false",
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+    {
+     "title": "What Are Tautologies?,
+     "complete": false,
+     "script_author": "Shawn Grooms",
+     "video_author": "Shawn Grooms"
+    },
+    {
+     "title": "What Are Fallacies?,
+     "complete": false,
+     "script_author": "Shawn Grooms",
+     "video_author": "Shawn Grooms"
+    },
+    {
+      "title": "Knights & Knaves 1",
+      "complete": "false",
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+        {
+      "title": "Knights & Knaves 2",
+      "complete": "false",
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+        {
+      "title": "Knights & Knaves 3",
+      "complete": "false",
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+    {
+      "title": "The Monty Hall Problem",
+      "complete": "false",
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+    {
+      "title": "3 Prisoners, 2 Colors, 1 Guard",
+      "complete": "false",
       "script_author": "Shawn Grooms",
       "video_author": "Shawn Grooms"
     }
