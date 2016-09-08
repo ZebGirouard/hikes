@@ -1,0 +1,23 @@
+{
+  "category": "Network Engineering",
+  "videos": [
+    {
+      "title": "Network Engineering: Network Layers",
+      "complete": true,
+      "script_author": "Zeb Girouard",
+      "video_author": "Zeb Girouard"
+    },
+    {
+      "title": "Network Engineering: Network Maps",
+      "complete": true,
+      "script_author": "Zeb Girouard",
+      "video_author": "Zeb Girouard"
+    },
+    {
+      "title": "Network Engineering: Network Addresses",
+      "complete": true,
+      "script_author": "Zeb Girouard",
+      "video_author": "Zeb Girouard"
+    }
+  ]
+}
